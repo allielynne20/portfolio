@@ -11,13 +11,14 @@ function Resume() {
         <a href={"#" + resume}></a>
         <h3>Proficiencies:</h3>
         <ul>
-          <li>Where I'm From: North Carolina</li>
-          <li>Favorite Food: Pizza</li>
-          <li>
-            Favorite Activities: Running, paddle boarding, pretty much anything
-            that gets me outside, art, hanging out with my cat Peanut
+          <li>Proficient in Microsoft Office Applications</li>
+          <li>Strong understanding of Computers and multiple pieces of technology
           </li>
-          <li>Favorite Band: Led Zeppelin</li>
+          <li>Proficient in multiple coding languages.</li>
+          <li>Strong Communication Skills</li>
+          <li>Highly Motivated</li>
+          <li>Able to work independently and with others</li>
+          <li>A quick study</li>
         </ul>
       </div>
     </section>
