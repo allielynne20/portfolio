@@ -28,7 +28,7 @@ function Portfolio() {
       <h2>Portfolio</h2>
       <div>
         {projects.map((selectedProject, i) => {
-          <Projects selectedProject={selectedProject} key={`projects${i}`} />;
+          <Projects selectedProject={selectedProject} key={`projects${i}`} />
         })}
       </div>
     </div>
