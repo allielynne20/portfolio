@@ -16,10 +16,10 @@ function Portfolio() {
       repo: "https://www.blink182.com/",
     },
     {
-      name: "Weather Api",
+      name: "girl_code website",
       description: "blahhhhhhh",
-      deployed: "https://www.blink182.com/",
-      repo: "https://www.blink182.com/",
+      deployed: "https://girl-code-project.herokuapp.com/",
+      repo: "https://github.com/carolinacez/WomenInTech.git",
     },
   ]);
 
